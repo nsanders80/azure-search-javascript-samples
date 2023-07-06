@@ -2,6 +2,11 @@
   "name": "my-reacte-app",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+
+    "node": "14.x"
+
+  },
   "proxy": "http://127.0.0.1:7071",
   "dependencies": {
     "@emotion/styled": "11.10.6",
